@@ -10,3 +10,22 @@
 .newpage{
  margin-left: 43rem;
 }
+@media (min-width: 992px){
+.navbar{
+ background-color: aquamarine;
+}
+}
+@media (min-width: 992px){
+.navbar li{
+ margin-left: 3em;
+}
+}
+/* @media(min-width: 992px){
+ .d-grid .btn{
+  
+  border-radius: 25px;
+  border-width: 0.4rem;
+  color: rgb(64, 64, 140);
+  
+ }
+} */
