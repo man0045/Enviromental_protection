@@ -29,3 +29,9 @@
   
  }
 } */
+.googleAuth{
+ text-align: center;
+}
+.googleAuth g-signin2{
+ align-items: center;
+}
