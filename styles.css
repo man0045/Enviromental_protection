@@ -35,3 +35,13 @@
 .googleAuth g-signin2{
  align-items: center;
 }
+@media (min-width: 992px){
+.card{
+ margin-left: 100rem;
+}
+}
+@media (min-width: 992px){
+.card2{
+ margin-bottom: 4rem;
+}
+}
